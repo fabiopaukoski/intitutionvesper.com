@@ -1,8 +1,7 @@
 {
   "name": "sanguinis-site",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
-  "type": "module",
   "scripts": {
     "test": "node tests/smoke.test.mjs"
   }

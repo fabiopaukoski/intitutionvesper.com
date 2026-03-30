@@ -1,12 +1,12 @@
 # Sanguinis Site
 
-Site estático pronto para hospedar no GitHub Pages.
+Site estático pronto para hospedar no GitHub Pages ou abrir localmente no navegador.
 
 ## Como usar localmente
 
-Basta abrir `index.html` no navegador. Como os arquivos usam módulos ES (`type="module"`), em alguns navegadores é melhor servir a pasta com um servidor local.
+Você pode abrir `index.html` direto no navegador.
 
-Exemplos:
+Também funciona com servidor local, se preferir:
 
 ```bash
 python -m http.server 8000
